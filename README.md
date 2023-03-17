@@ -1,2 +1,2 @@
 # odin-recipes
- Odin project
+ HTML foundation project from The Odin Project
